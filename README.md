@@ -13,7 +13,7 @@ The code has been written to solve for 5 fundamental steps:
 * Appropriately labels the data set with descriptive variable names. 
 * Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
-To accomodate these requests my took took the following actions:
+To accomodate these requests, I took the following actions:
 
 * Set the working directory to the highest level in which all data was contained
 * Set the working drive to the test folder one level below working to test
