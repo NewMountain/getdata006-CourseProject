@@ -33,3 +33,7 @@ To accomodate these requests, I took the following actions:
 * Use dplyr to create a group_by sequence by subject, activity and variable
 * Calculate the mean of the subject,activity,variable subset
 * Write this data to a text file titled "tidy_data.txt"
+
+##Results
+
+Please note, based on several articles by Hardley Wickham, the founder of the term "tidy data", data should be displayed in a concise clear, vertical manner. While this may be different than the "wide" dataframes we have been working with in this class, it is much easier to read for a person, and cast to a wide set for a r user. 
