@@ -36,4 +36,7 @@ To accomodate these requests, I took the following actions:
 
 ##Results
 
-Please note, based on several articles by Hardley Wickham, the founder of the term "tidy data", data should be displayed in a concise clear, vertical manner. While this may be different than the "wide" dataframes we have been working with in this class, it is much easier to read for a person, and cast to a wide set for a r user. 
+Please note, based on several articles by Hardley Wickham, a major contributor to r programming and the founder of the term "tidy data", that tidy data should be displayed in a concise, clear and vertical manner, the user decided to utilize this format for the tidy data text file provided. While this may be different than the "wide" dataframes we have been working with in this class, it is much easier to read for a person, and cast to a wide set for a r user. 
+
+Citation:
+http://vita.had.co.nz/papers/tidy-data.pdf
